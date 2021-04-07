@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-bot",
+  "description": "Whatsapp bot to business",
+  "author": {
+    "name": "Dennis Villagaray",
+    "email": "dennis.villagarayg@gmail.com"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "chalk": "4.1.0",
+    "exceljs": "4.2.1",
+    "express": "4.17.1",
+    "mime-db": "1.47.0",
+    "moment": "2.29.1",
+    "ora": "5.4.0",
+    "qrcode-terminal": "0.12.0"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "whatsapp-web.js": "1.12.5"
+  }
+}
