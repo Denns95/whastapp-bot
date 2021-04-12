@@ -5,6 +5,10 @@
     "name": "Dennis Villagaray",
     "email": "dennis.villagarayg@gmail.com"
   },
+  "scripts": {
+    "start": "node app.js",
+    "start:other": "node app2.js"
+  },
   "version": "0.0.1",
   "devDependencies": {
     "chalk": "4.1.0",
